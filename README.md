@@ -1,5 +1,5 @@
 # Game 2048
-###Description
+### Description
 - The playing field is 4 x 4.
 - Each cell can be empty or contain one of the numbers: 2, 4, 8 ... 2^n.
 - Player can move the cells with keyboard arrows. ⬆️ ⬇️ ➡️ ⬅️
